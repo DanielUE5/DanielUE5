@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫 About Me:<br>📂 I’m currently working on my portfolio<br>🤝 I’m looking to collaborate on web & gaming projects and gain experience<br>🎓 I’m currently studying computer gaming technology at New Bulgarian University
+#  About Me:
+ About Me:<br>📂 I’m currently working on my portfolio<br>🤝 I’m looking to collaborate on web & gaming projects and gain experience<br>🎓 I’m currently studying computer gaming technology at New Bulgarian University
 
 
 ## 🌐 Socials:
